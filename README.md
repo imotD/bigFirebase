@@ -1,2 +1,0 @@
-# firebase-basic
-Firebase Learn
